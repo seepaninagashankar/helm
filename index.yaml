@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  shankar:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-27T13:34:55.323814894Z"
+    description: A Helm chart for Kubernetes
+    digest: 0a9e0d514584e04c3bf0cd38b27da869fdd8715b72896a623ede709e3fe09aa4
+    name: shankar
+    type: application
+    urls:
+    - shankar-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-27T13:34:55.32312771Z"
